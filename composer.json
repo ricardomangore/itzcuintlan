@@ -1,0 +1,13 @@
+{
+    "name": "root/itzcuintlan",
+    "description": "Package prueba",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Mangore",
+            "email": "ricardomangore@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
